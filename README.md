@@ -3,6 +3,11 @@
 A comprehensive, Streamlit-based web application that utilizes Machine Learning and Deep Learning models to predict the likelihood of multiple diseases. 
 
 By unifying 7 different prediction models into a single, dynamic interface, this tool allows users to input clinical parameters or upload medical imagery to receive instant AI-driven diagnostic analysis and risk probability breakdowns.
+<img width="1917" height="954" alt="Screenshot 2026-05-07 213539" src="https://github.com/user-attachments/assets/760089ed-e30d-4700-9865-7cabf7d2a973" />
+<img width="1919" height="898" alt="Screenshot 2026-05-07 213618" src="https://github.com/user-attachments/assets/bbeb3bbe-a115-4faf-8068-6dae8674f590" />
+<img width="1906" height="896" alt="Screenshot 2026-05-07 213631" src="https://github.com/user-attachments/assets/88b0990d-8d34-487a-8075-c44247e7d20c" />
+
+
 
 ---
 
