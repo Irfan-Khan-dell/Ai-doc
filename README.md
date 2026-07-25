@@ -47,3 +47,4 @@ By unifying 7 different prediction models into a single, dynamic interface, this
 ```bash
 git clone [https://github.com/yourusername/AIDiseasePredictor.git](https://github.com/yourusername/AIDiseasePredictor.git)
 cd AIDiseasePredictor-main
+*for educational purpose
